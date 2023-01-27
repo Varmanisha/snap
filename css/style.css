@@ -1,0 +1,31 @@
+.tab-wrapper{
+    padding: 50px 0;
+}
+.tab-wrapper .nav-pills{
+    justify-content: center;
+    column-gap: 15px;
+}
+.tab-wrapper .nav-pills .nav-item .nav-link{
+    border: 1px solid #000000;
+    color: #000000;
+}
+.tab-wrapper .nav-pills .nav-item .nav-link.active{
+    background-color: #000000;
+    color: #ffffff;
+}
+.tab-wrapper .tab-content .tab-pane .snap-box img{
+    width: 100%;
+}
+
+/* modal */
+.modal-btn{
+    background-color: #000000;
+    border: 1px solid #000000;
+    color: #ffffff;
+}
+.modal-btn:hover{
+    color: #ffffff;
+}
+.modal-wrapper{
+
+}
